@@ -1,70 +1,77 @@
-# Getting Started with Create React App
+# Domain Legitimacy Checker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The **Domain Legitimacy Checker** is a user-friendly web application designed to assess the validity of domain names in real time. Built using React, it leverages a clean and responsive interface, React Hooks, and API integration for seamless performance and usability.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🚀 Features
 
-### `npm start`
+### 1. **Interactive User Interface**
+- Clean and responsive layout designed with React’s modular components.
+- User-friendly design allows easy input of domain names and displays results dynamically.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### 2. **State Management with React Hooks**
+- Efficiently manages user inputs, fetches API responses, and dynamically updates the UI in real-time using `useState` and `useEffect`.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 3. **API Integration with Axios**
+- Axios is used to fetch data from external APIs for validating domain names.
+- Ensures minimal latency and robust error handling for a smooth user experience.
 
-### `npm test`
+### 4. **Reusable Component Architecture**
+- React's component-based structure simplifies development, ensuring scalability and reusability for future feature expansions.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 5. **Efficient Build and Deployment**
+- Built using React Scripts and deployed on GitHub Pages using `gh-pages`.
+- Accessible via a custom homepage configuration for a seamless deployment experience.
 
-### `npm run build`
+### 6. **Future Scalability**
+- Designed to support additional features like domain availability checks and WHOIS lookups.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 7. **Enhanced Security**
+- Ensures secure API interactions and data handling with plans for encryption in future updates.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠️ Technologies Used
 
-### `npm run eject`
+### Programming Languages:
+- JavaScript
+- JSX
+- HTML
+- CSS
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Frameworks/Libraries:
+- React
+- Axios
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### State Management:
+- React Hooks (`useState`, `useEffect`)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### APIs:
+- Third-party APIs for domain validation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Build and Deployment:
+- `gh-pages` for deployment
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 🌟 How to Run Locally
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/PranavZagade/DomainNameChecker.git
+   cd DomainNameChecker
 
-### Code Splitting
+2. Install dependencies:
+   ```bash
+    npm install
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+3. Start the development server:
+ ```bash
+    npm start
+```
+4. Open the app in your browser:
+ ```bash
+    http://localhost:3000
+```
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
