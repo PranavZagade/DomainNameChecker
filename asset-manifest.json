@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DomainNameChecker/static/css/main.56fb14a7.css",
+    "main.js": "/DomainNameChecker/static/js/main.0a5431d1.js",
+    "static/js/453.e2178a37.chunk.js": "/DomainNameChecker/static/js/453.e2178a37.chunk.js",
+    "index.html": "/DomainNameChecker/index.html",
+    "main.56fb14a7.css.map": "/DomainNameChecker/static/css/main.56fb14a7.css.map",
+    "main.0a5431d1.js.map": "/DomainNameChecker/static/js/main.0a5431d1.js.map",
+    "453.e2178a37.chunk.js.map": "/DomainNameChecker/static/js/453.e2178a37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56fb14a7.css",
+    "static/js/main.0a5431d1.js"
+  ]
+}
