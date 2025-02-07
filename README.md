@@ -64,14 +64,14 @@ The **Domain Legitimacy Checker** is a user-friendly web application designed to
 
 2. Install dependencies:
    ```bash
-    npm install
+   npm install
 
 3. Start the development server:
  ```bash
-    npm start
+   npm start
 ```
 4. Open the app in your browser:
  ```bash
-    http://localhost:3000
+   http://localhost:3000
 ```
 
