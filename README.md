@@ -55,7 +55,18 @@ The **Domain Legitimacy Checker** is a user-friendly web application designed to
 ### Build and Deployment:
 - `gh-pages` for deployment
 
+
 ---
+
+## Screenshots
+
+### Login Screen
+![Image 1](Screenshots/login.png)
+![Image 2](Screenshots/login.png)
+![Image 3](Screenshots/login.png)
+
+---
+
 
 ## 🌟 How to Run Locally
 
