@@ -62,7 +62,6 @@ The **Domain Legitimacy Checker** is a user-friendly web application designed to
 
 ![Image 1](Screenshots/image1.png)
 ![Image 2](Screenshots/image2.png)
-![Image 3](Screenshots/image3.png)
 
 ---
 
