@@ -3,7 +3,6 @@
 The **Domain Legitimacy Checker** is a user-friendly web application designed to assess the validity of domain names in real-time. Built using React, it leverages a clean and responsive interface, React Hooks, and API integration for seamless performance and usability.
 
 🔗 **Live Demo:** [Domain Legitimacy Checker](https://PranavZagade.github.io/DomainNameChecker)  
-📂 **GitHub Repository:** [View on GitHub](https://github.com/PranavZagade/DomainNameChecker)
 ---
 
 ## 🚀 Features
